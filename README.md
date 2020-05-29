@@ -4,8 +4,10 @@
 
 - ExpressJS
 - Apollo Server
-- Logger with winston
+- Logger with Winston
 - Connect Elasticsearch
+- Connect Mongoose
+- Connect Redis
 
 ### Development
 
