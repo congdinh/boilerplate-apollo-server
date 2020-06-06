@@ -16,7 +16,7 @@
     "@babel/runtime": "^7.9.6",
     "@elastic/elasticsearch": "^7.7.1",
     "apollo-server": "^2.13.1",
-    "apollo-server-express": "^2.13.1",
+    "apollo-server-express": "^2.14.2",
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
